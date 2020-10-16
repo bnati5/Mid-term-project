@@ -1,3 +1,3 @@
 # Midterm-project
+Authers: Nathanael Alemayehu and Ahmad Sayeb
 Lighthouse Labs mid-term project.
-Authers: Ahmad Sayeb and Nathanael Alemayehu
