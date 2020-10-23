@@ -78,7 +78,10 @@ This repository consists of following files:
 
 ### System Requirements  
 **Operating System**: Windows   
-**Programing Language**: Python
+**Programing Language**: Python  
+
+Please be carefull of the large datasets  
+**Minimum 16GB Ram to run the large multiclasification files.**   
 
 
 ### Data
