@@ -1,11 +1,11 @@
 # Mid-term-project
-#### Authers: Nathanael Alemayehu and Ahmad Sayeb  
+#### Authors: Nathanael Alemayehu and Ahmad Sayeb 
 Lighthouse Labs mid-term project.
 
 
 **Hello and Welcome!!!**
 
-The aim of this project is to predict delays on flights from first 7 days of 2020 (1st of January - 7th of January).   
+The aim of this project is to predict delays on flights from the first 7 days of 2020 (1st of January - 7th of January).   
 
 ## [Final Delay Predictions for first 7 days of 2020](final_predictions.csv)  
 
