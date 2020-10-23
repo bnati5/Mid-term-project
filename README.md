@@ -17,60 +17,60 @@ This repository consists of following files:
 - **sample_submission.csv**: this file is an example how the submission for the modeling task should look like.
 
 ==================== **Exploratory Analysis Notebooks** ==================================
-- **eda_task1.ipynb**  
-- **eda_task2.ipynb**    
-- **EDA_task_3_with_weather_data_from_slack.ipynb**  
-- **EDA_task_3.ipynb**    
-- **eda_task4_time_corrected.ipynb**  
-- **eda_task4.ipynb**    
-- **eda_task5_task6.ipynb**  
-- **EDA_task_7.ipynb**  
-- **EDA_task_9.ipynb**
-- **eda_task8.ipynb**    
-- **eda_task_10.ipynb**  
-- **EDA_task_10_part_3_and_4.ipynb**
+- [**eda_task1.ipynb**](eda_task1.ipynb)  
+- [**eda_task2.ipynb**](eda_task2.ipynb)    
+- [**EDA_task_3_with_weather_data_from_slack.ipynb**](EDA_task_3_with_weather_data_from_slack.ipynb)  
+- [**EDA_task_3.ipynb**](EDA_task_3.ipynb)    
+- [**eda_task4_time_corrected.ipynb**](eda_task4_time_corrected.ipynb)  
+- [**eda_task4.ipynb**](eda_task4.ipynb)    
+- [**eda_task5_task6.ipynb**](eda_task5_task6.ipynb)  
+- [**EDA_task_7.ipynb**](EDA_task_7.ipynb)  
+- [**EDA_task_9.ipynb**](EDA_task_9.ipynb)
+- [**eda_task8.ipynb**](eda_task8.ipynb)    
+- [**eda_task_10.ipynb**](eda_task_10.ipynb)  
+- [**EDA_task_10_part_3_and_4.ipynb**](EDA_task_10_part_3_and_4.ipynb)
 
-=============================================================================  
+============================================================================  
    
 ================= Data Gathering, Cleaning & Feature Engineering Notebooks ====================   
-- **get_large_data.ipynb**   
-- **data_cleaning.ipynb**
-- **data_cleaning_with_delays.ipynb**  
-- **multiclass_large_data_cleaning.ipynb**
-- **Reg_onehot_label.ipynb** 
+- [**get_large_data.ipynb**](get_large_data.ipynb)   
+- [**data_cleaning.ipynb**](data_cleaning.ipynb)
+- [**data_cleaning_with_delays.ipynb**](data_cleaning_with_delays.ipynb)  
+- [**multiclass_large_data_cleaning.ipynb**](multiclass_large_data_cleaning.ipynb)
+- [**Reg_onehot_label.ipynb**](Reg_onehot_label.ipynb) 
 
 ============================================================================
 
 ================= Modeling Notebooks =============================================
-- **RandomForest_model_load.ipynb**  
-- **XGB_binary_Presentation.ipynb**                    
-- **XGboost_binary.ipynb**     
-- **XGBoost_reg_best.ipynb**
-- **multiclass_large_data_model.ipynb**                      
-- **Regressions_presentation.ipynb**  
-- **SMOTE_XGB.ipynb**      
-- **Multiclass_Classification.ipynb**   
+- [**RandomForest_model_load.ipynb**](RandomForest_model_load.ipynb)  
+- [**XGB_binary_Presentation.ipynb**](XGB_binary_Presentation.ipynb)                    
+- [**XGboost_binary.ipynb**](XGboost_binary.ipynb)     
+- [**XGBoost_reg_best.ipynb**](XGBoost_reg_best.ipynb)
+- [**multiclass_large_data_model.ipynb**](multiclass_large_data_model.ipynb)                      
+- [**Regressions_presentation.ipynb**](Regressions_presentation.ipynb) 
+- [**SMOTE_XGB.ipynb**](SMOTE_XGB.ipynb)      
+- [**Multiclass_Classification.ipynb**](Multiclass_Classification.ipynb)   
 
 ============================================================================   
 
 ================= Readme Files and Guide Notebooks====================================
-- **exploratory_analysis.ipynb**      
-- **sample_submission.csv**
-- **presentation_guidelines.md** 
-- **data_description.md**
-- **modeling.ipynb**
-- **LICENSE**                               
-- **README.md**  
+- [**exploratory_analysis.ipynb**](exploratory_analysis.ipynb)      
+- [**sample_submission.csv**](sample_submission.csv)
+- [**presentation_guidelines.md**](presentation_guidelines.md) 
+- [**data_description.md**](data_description.md)
+- [**modeling.ipynb**](modeling.ipynb)
+- [**LICENSE**](LICENSE)                               
+- [**README.md**](README.md)  
 
 ============================================================================
 
 ================= Saved Models ==================================================
-- **XGBoost_regressor_final.sav**  
-- **Ridge_label_final.sav**           
-- **XGBoost_onehot_reg.sav**
-- **XGBoost_model_smote.sav**
-- **Ridge_onehot_final.sav**
-- **XGBoost_model.sav**  
+- [**XGBoost_regressor_final.sav**](XGBoost_regressor_final.sav)  
+- [**Ridge_label_final.sav**](Ridge_label_final.sav)           
+- [**XGBoost_onehot_reg.sav**](XGBoost_onehot_reg.sav)
+- [**XGBoost_model_smote.sav**](XGBoost_model_smote.sav)
+- [**Ridge_onehot_final.sav**](Ridge_onehot_final.sav)
+- [**XGBoost_model.sav**](XGBoost_model.sav)  
 
 ============================================================================
                       
