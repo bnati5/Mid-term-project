@@ -7,7 +7,7 @@ Lighthouse Labs mid-term project.
 
 The aim of this project is to predict delays on flights from first 7 days of 2020 (1st of January - 7th of January).   
 
-[Final Delay Predictions for first 7 days of 2020](final_predictions.csv)  
+## [Final Delay Predictions for first 7 days of 2020](final_predictions.csv)  
 
 This repository consists of following files:
 
