@@ -61,6 +61,7 @@ This repository consists of following files:
 - [**modeling.ipynb**](modeling.ipynb)
 - [**LICENSE**](LICENSE)                               
 - [**README.md**](README.md)  
+- [**CODE_OF_CONDUCT.md**](CODE_OF_CONDUCT.md)
 
 ============================================================================
 
