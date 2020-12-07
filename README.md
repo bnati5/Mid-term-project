@@ -1,5 +1,5 @@
 # Mid-term-project
-#### Authors: Nathanael Alemayehu and Ahmad Sayeb 
+#### Authors: [Nathanael Alemayehu](https://github.com/bnati5) and [Ahmad Sayeb](https://github.com/ahmadsayeb) 
 Lighthouse Labs mid-term project.
 
 
